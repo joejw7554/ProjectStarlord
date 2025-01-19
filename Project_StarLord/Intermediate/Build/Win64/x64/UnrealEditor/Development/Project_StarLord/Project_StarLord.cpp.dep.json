@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joejw\\desktop\\projectstarlord\\project_starlord\\source\\project_starlord\\project_starlord.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joejw\\desktop\\projectstarlord\\project_starlord\\intermediate\\build\\win64\\x64\\project_starlordeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\joejw\\desktop\\projectstarlord\\project_starlord\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_starlord\\definitions.project_starlord.h",
+            "c:\\users\\joejw\\desktop\\projectstarlord\\project_starlord\\source\\project_starlord\\project_starlord.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

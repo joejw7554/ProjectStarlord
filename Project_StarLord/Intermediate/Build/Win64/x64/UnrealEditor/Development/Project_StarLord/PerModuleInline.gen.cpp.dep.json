@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joejw\\desktop\\projectstarlord\\project_starlord\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_starlord\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joejw\\desktop\\projectstarlord\\project_starlord\\intermediate\\build\\win64\\x64\\project_starlordeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\joejw\\desktop\\projectstarlord\\project_starlord\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_starlord\\definitions.project_starlord.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

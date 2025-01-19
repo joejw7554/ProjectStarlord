@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Project_StarLord.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\joejw\Desktop\ProjectStarlord\Project_StarLord\Intermediate\Build\Win64\x64\Project_StarLordEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\joejw\Desktop\ProjectStarlord\Project_StarLord\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_StarLord\Project_StarLord.cpp.obj"
+"C:\Users\joejw\Desktop\ProjectStarlord\Project_StarLord\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_StarLord\PerModuleInline.gen.cpp.obj"
+"C:\Users\joejw\Desktop\ProjectStarlord\Project_StarLord\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_StarLord\Default.rc2.res"
+/OUT:"C:\Users\joejw\Desktop\ProjectStarlord\Project_StarLord\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_StarLord\UnrealEditor-Project_StarLord.lib"
